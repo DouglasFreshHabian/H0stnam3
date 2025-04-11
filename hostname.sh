@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# A simple Bash script to change your hostname on Linux, with several options
+
 # Define color escape codes
 RED='\033[1;31m'
 GREEN='\033[1;32m'
