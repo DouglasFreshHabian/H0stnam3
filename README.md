@@ -1,6 +1,10 @@
-# H0stname
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00F705&center=true&width=435&lines=Linux+Hostname+Changer;Crappy+Bash+Script+Writer;Sincere+&+Passionate+About+Linux)](https://git.io/typing-svg)
 
-## Utility to change the hostname of a Linux machine with colorful options.
+<h1 align="center"> 
+📚 Utility to Change the Hostname of a Linux Machine 
+</h1>
+
+## Let's take a look...
 ```bash
    ./hostname.sh --help
           __            __                            __
@@ -39,13 +43,13 @@ Rules for creating a hostname:
 5. The hostname cannot be longer than 63 characters.
 ```
 
-### Xterm Monitoring: 
+### Xterm Monitoring:🔍
 Spawns an `xterm` window showing the status of `systemd-logind.service` and `systemd-hostnamed.service`, which are crucial for managing hostnames on modern Linux systems.
 
-### Validation: 
+### Validation:🕵️ 
 The script checks if the hostname meets the rules (e.g., no starting or ending hyphens, max length 63, etc.).
 
-### Shell Restart: 
+### Shell Restart:💻 
 After the hostname change, it offers to restart the shell session to apply the new hostname, but also reminds the user to do it manually if they opt not to restart.
 
 ## Example Usage:
@@ -64,7 +68,7 @@ Chosen hostname from wordlist:rottie
 Do you want to proceed with the new hostname: pearl? (y/n): y
 ```
 
-## Improvements:
+## Improvements:🛠
 ### Systemd Compatibility: 
 The script uses `systemd-hostnamed.service` and `systemctl`, which is excellent for systemd-based systems (most modern Linux distros). 
 If you wanted to support non-systemd systems, you could include a check and provide an alternative mechanism for setting the hostname.
