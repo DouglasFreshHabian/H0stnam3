@@ -1,0 +1,24 @@
+# Monitoring Logs In Real TIme - Associated with Hostname Daemon
+
+## Using `journalctl`
+```bash
+   journalctl -l | grep systemd-hostnamed.service
+
+   journalctl -l | grep hostnamed.service
+
+   journalctl -l | grep hostnamed
+
+   journalctl -u systemd-hostnamed.service 
+
+   journalctl -b -u systemd-hostnamed.service -o cat			# View it without timestamps or metadata
+```
+## Using `tail`
+```bash
+   tail -f /var/log/syslog
+```
+## Getting Snapshots & Status
+Using systemctl
+```bash
+   systemctl status systemd-logind.service
+   systemctl status systemd-hostnamed.service
+```
