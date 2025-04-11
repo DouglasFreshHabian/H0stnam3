@@ -1,0 +1,6 @@
+# Rules for creating a hostname - from "man 5 hostname"
+The file should contain a single newline-terminated hostname string. 
+Comments (lines starting with a "#") are ignored. The hostname should 
+be composed of up to 64 7-bit ASCII lower-case alphanumeric characters 
+or hyphens forming a valid DNS domain name. It is recommended that this 
+name contains only a single label, i.e. without any dots.
