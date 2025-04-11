@@ -1,0 +1,11 @@
+# 9 Different ways to get your hostname on Linux:
+
+cat /etc/hostname
+hostname -A
+cat /proc/sys/kernel/hostname
+nmcli general hostname
+getent hosts $(hostname -i)
+grep $(hostname) /etc/hosts
+hostnamectl --static
+uname -n
+sysctl kernel.hostname
