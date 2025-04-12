@@ -1,10 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00F705&center=true&width=435&lines=Linux+Hostname+Changer;Crappy+Bash+Script+Writer;Sincere+&+Passionate+About+Linux)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00F705&center=true&width=435&lines=Linux+Hostname+Changer;Crappy+Bash+Script+Writer;Sincere+&+Passionate+About+Linux;Seeker+Of+Knowledge📚)](https://git.io/typing-svg)
 
 <h1 align="center"> 
-📚 Utility to Change the Hostname of a Linux Machine 
+📛 Utility to Change the Hostname of a Linux Machine 
 </h1>
 
-## Let's take a look...
+## Let's Take a Look:👀
 ```bash
    ./hostname.sh --help
           __            __                            __
@@ -24,7 +24,7 @@ Options:
   -a, --about              Show the rules for creating a valid hostname.
   -b, --banner		   Display the ascii banner.
 ```
-### To Better Understand the Rules On Linux Hostname Creation
+### To Better Understand the Rules On Linux Hostname Creation:📐
 ```bash
    ./hostname.sh --about
 
@@ -52,7 +52,7 @@ The script checks if the hostname meets the rules (e.g., no starting or ending h
 ### Shell Restart:💻 
 After the hostname change, it offers to restart the shell session to apply the new hostname, but also reminds the user to do it manually if they opt not to restart.
 
-## Example Usage:
+## Example Usage:📖
 Inside of the dictionaries directory, there are several wordlists:
 ```bash
    ./hostname.sh --wordlist dictionaries/dogs
@@ -66,6 +66,26 @@ Inside of the dictionaries directory, there are several wordlists:
 
 Chosen hostname from wordlist:rottie
 Do you want to proceed with the new hostname: pearl? (y/n): y
+Applying new hostname:pearl
+[######################################]
+[####################################################]
+[###########################################]
+_______________________________________________________
+
+Successfully changed the hostname to :pearl!
+_______________________________________________________
+
+Do you want to restart your shell session now? (y/n): y
+---------------------------------------------------->
+Bonus Tip! Here's another way to get the hostname:
+  Command: sysctl kernel.hostname
+  Output:
+                      __
+   ___  ___ ___ _____/ /
+  / _ \/ -_) _ `/ __/ / 
+ / .__/\__/\_,_/_/ /_/  
+/_/  
+
 ```
 
 ## Improvements:🛠
@@ -73,10 +93,10 @@ Do you want to proceed with the new hostname: pearl? (y/n): y
 The script uses `systemd-hostnamed.service` and `systemctl`, which is excellent for systemd-based systems (most modern Linux distros). 
 If you wanted to support non-systemd systems, you could include a check and provide an alternative mechanism for setting the hostname.
 
-### Post-Change Actions: 
+### Post-Change Actions:📬 
 Consider adding an option for the script to trigger network service restart or other actions that might be necessary for the hostname to take full effect.
 
-### Error Handling with xterm: 
+### Error Handling with xterm:❌ 
 In case xterm or wmctrl is not installed, it could better handle the error gracefully instead of failing the script. This is especially helpful for systems without a graphical interface or minimal setups.
 
 
