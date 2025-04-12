@@ -6,7 +6,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74300&width=435&lines=Linux+Hostname+Changer;Linux+Command+Line+Junky;Seeker+Of+Linux+Knowledge;Wordlist+Cleaner+%26+Creator;Terminal+Window+Splitter+" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=4300F7&center=true&width=435&lines=64+7-bit+ASCII+lower-case+;alphanumeric+characters+or+hyphens;should+not+contain+any+dots;cannot+start+or+end+with+a+hypen;alphanumeric+characters+(a-z%2C+0-9)+;cannot+be+longer+than+63+characters" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=4300F7&width=435&lines=64+7-bit+ASCII+lower-case+;alphanumeric+characters+or+hyphens;should+not+contain+any+dots;cannot+start+or+end+with+a+hypen;alphanumeric+characters+(a-z%2C+0-9)+;cannot+be+longer+than+63+characters" alt="Typing SVG" /></a>
 
 
 
