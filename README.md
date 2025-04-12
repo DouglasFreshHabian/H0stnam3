@@ -16,10 +16,6 @@
 
 
 
-
-
-
-
 ## Let's Take a Look: 👀
 
 ## To Better Understand the Rules On Linux Hostname Creation: 📐
@@ -94,9 +90,9 @@ Consider adding an option for the script to trigger network service restart or o
 ### Error Handling with xterm: ❌ 
 In case xterm or wmctrl is not installed, it could better handle the error gracefully instead of failing the script. This is especially helpful for systems without a graphical interface or minimal setups.
 
+## Click on the Asciinema Video Below to See a Demo: 🔗
 
-
-
+[![asciicast](https://asciinema.org/a/715001.svg)](https://asciinema.org/a/715001?t=00:06)
 
 
 
@@ -105,7 +101,7 @@ In case xterm or wmctrl is not installed, it could better handle the error grace
 #### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
 
 <h2 align="center">
-👍 [SUPPORT FRESH!](www.youtube.com/@DouglasHabian-tq5ck) 
+👍 [![SUPPORT FRESH!](www.youtube.com/@DouglasHabian-tq5ck) 
 </h2>
 
 
