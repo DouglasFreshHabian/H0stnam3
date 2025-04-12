@@ -1,7 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00F705&center=true&width=435&lines=Linux+Hostname+Changer;Crappy+Bash+Script+Writer;Sincere+&+Passionate+About+Linux;Seeker+Of+Knowledge📚)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00F705&center=true&width=435&lines=Linux+Hostname+Changer+💻;Command+Line+Junky+💊;Crappy+Bash+Script+Writer+🗒;Seeker+Of+Linux+Knowledge+📚)](https://git.io/typing-svg)
 
 <h1 align="center"> 
-📛 Utility to Change the Hostname of a Linux Machine 
+📛 Utility to Change the Hostname of a Linux Machine 🤖
 </h1>
 
 ## Let's Take a Look:👀
