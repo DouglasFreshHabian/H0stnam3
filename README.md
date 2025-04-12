@@ -104,9 +104,9 @@ In case xterm or wmctrl is not installed, it could better handle the error grace
 
 #### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
 
-<h3 align="center">
-👍 [SUPPORT ME!](www.youtube.com/@DouglasHabian-tq5ck) 
-</h3>
+<h2 align="center">
+👍 [SUPPORT FRESH!](www.youtube.com/@DouglasHabian-tq5ck) 
+</h2>
 
 
 
