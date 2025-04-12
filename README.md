@@ -2,6 +2,8 @@
 📛 Utility to Change the Hostname of a Linux Machine 🤖
 </h1>
 
+![Carbon Terminal Photo](https://github.com/DouglasFreshHabian/H0stnam3/blob/main/Graphics/carbon2.png)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D408&width=435&lines=Linux+Hostname+Randomnizer;Terminal+Typing+Addict+%F0%9F%92%89;Bash+Shell+Divider;Linux+Filesystem+Dancer;Terminal+Emulator+Creator" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74300&width=435&lines=Linux+Hostname+Changer;Linux+Command+Line+Junky;Seeker+Of+Linux+Knowledge;Wordlist+Cleaner+%26+Creator;Terminal+Window+Splitter+" alt="Typing SVG" /></a>
@@ -67,6 +69,8 @@ The script checks if the hostname meets the rules (e.g., no starting or ending h
 After the hostname change, it offers to restart the shell session to apply the new hostname, but also reminds the user to do it manually if they opt not to restart.
 
 ## Example Usage:📖
+
+
 Inside of the dictionaries directory, there are several wordlists:
 ```bash
    ./hostname.sh --wordlist dictionaries/dogs
