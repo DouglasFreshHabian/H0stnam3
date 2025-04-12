@@ -1,8 +1,22 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00F705&center=true&width=435&lines=Linux+Hostname+Changer+💻;Command+Line+Junky+💊;Crappy+Bash+Script+Writer+🗒;Seeker+Of+Linux+Knowledge+📚)](https://git.io/typing-svg)
-
 <h1 align="center"> 
 📛 Utility to Change the Hostname of a Linux Machine 🤖
 </h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D408&width=435&lines=Linux+Hostname+Randomnizer;Terminal+Typing+Addict+%F0%9F%92%89;Bash+Shell+Divider;Linux+Filesystem+Dancer;Terminal+Emulator+Creator" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74300&width=435&lines=Linux+Hostname+Changer;Linux+Command+Line+Junky;Seeker+Of+Linux+Knowledge;Wordlist+Cleaner+%26+Creator;Terminal+Window+Splitter+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=4300F7&center=true&width=435&lines=64+7-bit+ASCII+lower-case+;alphanumeric+characters+or+hyphens;should+not+contain+any+dots;cannot+start+or+end+with+a+hypen;alphanumeric+characters+(a-z%2C+0-9)+;cannot+be+longer+than+63+characters" alt="Typing SVG" /></a>
+
+
+
+
+
+
+
+
+
+
 
 ## Let's Take a Look:👀
 ```bash
