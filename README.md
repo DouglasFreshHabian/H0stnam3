@@ -49,7 +49,7 @@ Spawns an `xterm` window showing the status of `systemd-logind.service` and `sys
 ### Validation:🕵️ 
 The script checks if the hostname meets the rules (e.g., no starting or ending hyphens, max length 63, etc.).
 
-### Shell Restart:💻 
+### Shell Restart:🐚
 After the hostname change, it offers to restart the shell session to apply the new hostname, but also reminds the user to do it manually if they opt not to restart.
 
 ## Example Usage:📖
@@ -89,7 +89,7 @@ Bonus Tip! Here's another way to get the hostname:
 ```
 
 ## Improvements:🛠
-### Systemd Compatibility: 
+### Systemd Compatibility:⚙️ 
 The script uses `systemd-hostnamed.service` and `systemctl`, which is excellent for systemd-based systems (most modern Linux distros). 
 If you wanted to support non-systemd systems, you could include a check and provide an alternative mechanism for setting the hostname.
 
