@@ -4,11 +4,11 @@
 
 ![Carbon Terminal Photo](https://github.com/DouglasFreshHabian/H0stnam3/blob/main/Graphics/carbon7.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D408&width=435&lines=Linux+Hostname+Randomnizer;Terminal+Typing+Addict+%F0%9F%92%89;Bash+Shell+Divider;Linux+Filesystem+Dancer;Terminal+Emulator+Creator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D408&width=435&lines=Linux+Hostname+Randomnizer;Terminal+Typing+Addict+💊;Bash+Shell+Divider;Linux+Filesystem+Dancer+👣;Terminal+Emulator+Creator" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74300&width=435&lines=Linux+Hostname+Changer;Linux+Command+Line+Junky;Seeker+Of+Linux+Knowledge;Wordlist+Cleaner+%26+Creator;Terminal+Window+Splitter+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74300&width=435&lines=Linux+Hostname+Changer;Linux+Command+Line+Junky;Seeker+Of+Linux+Knowledge+📖;Wordlist+Cleaner+%26+Creator;Terminal+Window+Splitter+" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=4300F7&width=435&lines=64+7-bit+ASCII+lower-case+;alphanumeric+characters+or+hyphens;should+not+contain+any+dots;cannot+start+or+end+with+a+hypen;alphanumeric+characters+(a-z%2C+0-9)+;cannot+be+longer+than+63+characters" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=4300F7&width=435&lines=64+7-bit+ASCII+lower-case+;alphanumeric+characters+or+hyphens;should+not+contain+any+dots+❗;cannot+start+or+end+with+a+hypen+➖;alphanumeric+characters+(a-z%2C+0-9)+;cannot+be+longer+than+63+characters" alt="Typing SVG" /></a>
 
 
 
@@ -46,7 +46,7 @@ The script checks if the hostname meets the rules (e.g., no starting or ending h
 ### Shell Restart: 🐚
 After the hostname change, it offers to restart the shell session to apply the new hostname, but also reminds the user to do it manually if they opt not to restart.
 
-## Example Usage: 📖
+## Example Usage: 🎯
 Inside of the dictionaries directory, there are several wordlists:
 ```bash
    ./hostname.sh --wordlist dictionaries/dogs
@@ -101,7 +101,7 @@ In case xterm or wmctrl is not installed, it could better handle the error grace
 #### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
 
 <h2 align="center">
-👍 [![SUPPORT FRESH!](www.youtube.com/@DouglasHabian-tq5ck) 
+👍 [SUPPORT FRESH!](www.youtube.com/@DouglasHabian-tq5ck) 
 </h2>
 
 
