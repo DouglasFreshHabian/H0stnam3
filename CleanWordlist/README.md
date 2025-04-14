@@ -1,6 +1,6 @@
 # A more robust Bash script that processes a wordlist and checks if each word conforms to the rules for valid hostnames:
 
-## What this script does:
+## What this script does: 📜
 
  - It takes a wordlist file as input.
 
@@ -18,7 +18,7 @@
 
  - Logs invalid words with details to a log file.
 
-## Valid Hostname Rules:
+## Valid Hostname Rules: 📏
 
 A hostname can contain only alphanumeric characters (a-zA-Z0-9), and hyphens (-).
 
@@ -26,7 +26,7 @@ It cannot start or end with a hyphen (-).
 
 It must be between 1 and 253 characters long, and each individual label (part separated by dots) must be no longer than 63 characters.
 
-  ### Script Steps:
+  ### Script Steps: 🔧
 
         Read each word from the wordlist.
 
@@ -40,7 +40,7 @@ This script is designed to clean a wordlist by ensuring that all words in the li
 and then save a cleaned version of the wordlist to a new file. It also logs any invalid entries and outputs helpful 
 information with colorized formatting.
 
-## These are ANSI escape codes for adding color to the terminal output. Colors are used to make the script's messages stand out:
+## These are ANSI escape codes for adding color to the terminal output. Colors are used to make the script's messages stand out: 🖌
 
     RED: Used for error messages.
 
@@ -52,7 +52,7 @@ information with colorized formatting.
 
     RESET: Resets the color formatting back to default.
 
-## Key Points:
+## Key Points: 🔑
 
     Error Handling: The script includes error handling via error_exit(), which will halt execution if something goes wrong.
 
