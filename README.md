@@ -4,13 +4,11 @@
 
 ![Carbon Terminal Photo](https://github.com/DouglasFreshHabian/H0stnam3/blob/main/Graphics/carbon7.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D408&width=435&lines=Linux+Hostname+Randomnizer;Terminal+Typing+Addict+💊;Bash+Shell+Divider;Linux+Filesystem+Dancer+👣;Terminal+Emulator+Creator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Linux+Hostname+Randomnizer;Terminal+Typing+Addict%2B%F0%9F%92%8A;Bash+Shell+Divider;Linux+Filesystem+Dancer+%F0%9F%91%A3;Terminal+Emulator+Creator" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74300&width=435&lines=Linux+Hostname+Changer;Linux+Command+Line+Junky;Seeker+Of+Linux+Knowledge+📖;Wordlist+Cleaner+%26+Creator;Terminal+Window+Splitter+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4300F7&width=435&lines=Linux+Hostname+Changer;Linux+Command+Line+Junky;Seeker+Of+Linux+Knowledge+%F0%9F%93%96;Wordlist+Cleaner+%26+Creator;Terminal+Window+Splitter" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=4300F7&width=435&lines=64+7-bit+ASCII+lower-case+;alphanumeric+characters+or+hyphens;should+not+contain+any+dots+❗;cannot+start+or+end+with+a+hypen+➖;alphanumeric+characters+(a-z%2C+0-9)+;cannot+be+longer+than+63+characters" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12F60B&width=435&lines=64+7-bit+ASCII+lower+case;alphanumeric+characters+or+hyphens;should+not+contain+any+dots%E2%9D%97;cannot+start+or+end+with+a+hypen+%E2%9E%96;alphanumeric+characters+(a-z%2CA-Z%2C0-9);cannot+be+longer+than+63+characters" alt="Typing SVG" /></a>
 
 
 
