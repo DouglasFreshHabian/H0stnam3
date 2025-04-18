@@ -1,6 +1,6 @@
-<h1 align="center"> 
+<h2 align="center"> 
 🤖 Utility to Change the Hostname of a Linux Machine 📛
-</h1>
+</h2>
 
 ![Carbon Terminal Photo](https://github.com/DouglasFreshHabian/H0stnam3/blob/main/Graphics/carbon7.png)
 
