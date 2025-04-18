@@ -127,7 +127,7 @@ In case xterm or wmctrl is not installed, it could better handle the error grace
        .'        "-.       .-"                     T$$$b    
       /             "-._.-"               ._        '^' ;   
      :                                    \.`.         /    
-     ;                                -.   \`."-._.-'-'     
+     ;          Pearl                 -.   \`."-._.-'-'     
     :                                 .'\   \ \ \ \         
     ;  ;                             /:  \   \ \ . ;        
    :   :                            ,  ;  `.  `.;  :        
@@ -142,7 +142,7 @@ In case xterm or wmctrl is not installed, it could better handle the error grace
 :     \           : ;       /      \     ;      
 ;    . '.         '-;      /        ;    :      
 ;  \  ; :           :     :         :    '-.      
-'.._L.:-'           :     ;    bug   ;    . `. 
+'.._L.:-'           :     ;          ;    . `. 
                      ;    :          :  \  ; :  
                      :    '-..       '.._L.:-'  
                       ;     , `.
