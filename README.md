@@ -61,14 +61,14 @@ Do you want to proceed with the new hostname: pearl? (y/n): y
 Applying new hostname: pearl
 _______________________________________________________
 
-Successfully changed the hostname to :pearl!
+Successfully changed the hostname to : pearl!
 _______________________________________________________
 
 Do you want to restart your shell session now? (y/n): y
 ---------------------------------------------------->
 Bonus Tip! Here's another way to get the hostname:
   Command: sysctl kernel.hostname
-  Output:
+  Output: 🐾
                       __
    ___  ___ ___ _____/ /
   / _ \/ -_) _ `/ __/ / 
